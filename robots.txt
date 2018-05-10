@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /inschrijfformulier.html
+Disallow: /afspraak.html
+Disallow: /vraag.html

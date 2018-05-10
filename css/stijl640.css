@@ -1,0 +1,18 @@
+.merk {
+  display: inline ;
+  visibility: visible ;
+ }
+.merk a:link {color:#0F75BC;}
+.merk a:visited {color:#0F75BC;}
+.merk a:hover {color:#0F75BC;}
+.merk a:active {color:#0F75BC;}
+
+
+
+.page-header{
+	
+	display: none ;
+  visibility: invisible ;
+}
+
+h2{font-size:20px;}
