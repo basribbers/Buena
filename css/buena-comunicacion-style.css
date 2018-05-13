@@ -1,15 +1,16 @@
 ﻿.page-header {padding:0;margin:0;}
 .merk {
   display: none ;
-  visibility: invisible ;
+  visibility: hidden ;
 }
-.jumbotron p {font-size: medium;}
+
 .page-header img{padding:0;margin:0;}
 .top-20{margin-top:35px;}
 
 h3 {background-color:#0F75BC;color:white;padding:5px;font-size: medium;}
 
-.jumbotron{padding:10px;margin-top:40px;}
+.jumbotron{padding:10px;margin-top:40px;font-size: small;}
+
 .well  {padding:10px;margin:10px 10px 0 10px;border:1px solid #0f75bc}
 #content-kop img {
 margin-left:50px;margin-bottom:25px;}
@@ -18,6 +19,8 @@ margin-left:50px;margin-bottom:25px;}
       width: 50%;
       margin: auto;
   }
+
+.panel-primary {height:170px;}
 
 input.onderwerp
 {

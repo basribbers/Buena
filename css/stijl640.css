@@ -1,7 +1,15 @@
+body{font-size: medium; color:black;}
+
+
+
 .merk {
-  display: inline ;
-  visibility: visible ;
- }
+display: inline ;
+visibility: visible ;
+font-weight: bold;
+}
+.merk img {margin-top: 5px;}
+.merk a{font-size:20px;}
+
 .merk a:link {color:#0F75BC;}
 .merk a:visited {color:#0F75BC;}
 .merk a:hover {color:#0F75BC;}
@@ -10,9 +18,12 @@
 
 
 .page-header{
-	
+
 	display: none ;
-  visibility: invisible ;
+  visibility: hidden ;
 }
 
 h2{font-size:20px;}
+
+.jumbotron{margin:0;}
+.panel-primary {height:auto;margin-top: 10px;}
