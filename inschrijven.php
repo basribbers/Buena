@@ -10,8 +10,6 @@ endif;
 
 $headers .= 'From: <inschrijving @ buena-comunicacion . nl>' . "\r\n";
 $adres="gemimah@buena-comunicacion.nl";
-//$adres="basribbers@gmail.com";
-
 
 mail($adres, $onderwerp,$bericht,$headers);
 

@@ -9,9 +9,7 @@ else:
 endif;
 
 $headers .= 'From: <afspraak @ buena-comunicacion . nl>' . "\r\n";
-//$adres="gemimah@buena-comunicacion.nl";
-$adres="basribbers@gmail.com";
-
+$adres="gemimah@buena-comunicacion.nl";
 
 mail($adres, $onderwerp,$bericht,$headers);
 

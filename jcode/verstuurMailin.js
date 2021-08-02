@@ -19,8 +19,8 @@ let onderwerp = "inschrijfformulier van "+ voornaam+" "+achternaam;
     let locatie =   document.getElementById('locatie').value;
     let type = document.getElementById('type').value;
     let opmerking = document.getElementById('opmerking').value;
-
-    let bericht = voornaam +" "+ achternaam+" "+ straat +" "+huisnummer+" "+postcode+" "+woonplaats+" "+telefoon+" "+email+" "+locatie+" "+type+" "+opmerking;
+    let bericht = `${voornaam} ${achternaam} ${straat} ${huisnummer} ${postcode} ${woonplaats} ${telefoon} ${email} ${locatie} ${type} ${opmerking}`;
+    //let bericht = voornaam +" "+ achternaam+" "+ straat +" "+huisnummer+" "+postcode+" "+woonplaats+" "+telefoon+" "+email+" "+locatie+" "+type+" "+opmerking;
     window.location.href =  "inschrijven.php?onderwerp=inschrijfformulier "+voornaam +" "+ achternaam+"&bericht=" + bericht ;
     }
     else{let melding = document.getElementById('melding');

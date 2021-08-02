@@ -78,7 +78,7 @@
 </div>
 </fieldset>
 <div class="form-group">
-<div class="col-sm-offset-1 col-sm-4"> <input class="btn btn-primary" value="Vraag verzenden" id="submit" type="submit"> <input class="btn btn-primary" value="Wissen" type="reset"></div></div></form>
+<div class="col-sm-offset-1 col-sm-4"> <input class="btn btn-primary" value="Vraag verzenden" id="submit" type="button"> <input class="btn btn-primary" value="Wissen" type="reset"></div></div></form>
 </div>
 </div>
 <div class="col-sm-1" style="background-color:white;"></div>
@@ -110,14 +110,7 @@
 <li>
 <a href="https://www.linkedin.com/in/gemimahspaans/">LinkedIn</a>
 </li></ul></div></div></div>
- <script>
-var submit = document.getElementById('submit');
-var onderwerp = document.getElementById('onderwerp');
-var achternaam = document.getElementById('achternaam');
-var voornaam = document.getElementById('voornaam');
-submit.onclick=functie;
-function functie()
-{
-onderwerp.value = "vraag van "+ voornaam.value+" "+achternaam.value;
-}
+ <script
+src="verstuurMailvr.js">
+
 </script></body></html>
