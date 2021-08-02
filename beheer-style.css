@@ -1,0 +1,45 @@
+h1 {margin-left:5%;}
+.nmww {background-color:white; border:0; width:250px;color:black;font-size:14px;border:1px solid black;padding:2px;}
+.rest {background-color:white; border:0; width:250px;color:black;font-size:14px;border:1px solid black;float:left;margin-top:2px;}
+label {width:250px;display:inline-block;}
+
+/* vraag overzicht css */
+.wijzig {background-image: url("../img/gear.png");width: 50px; background-repeat: no-repeat;margin-left: 10px;}
+
+.navt{
+padding:2%;
+}
+
+.navbut{
+width:175px;
+color:white;
+padding:15px;
+background-color: #00b419;
+border-radius:5px;
+cursor: pointer;
+border:none;
+height:40px;
+box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+font-size: 17px;
+}
+.navbut:hover{color:white;text-decoration: none;	background-color: #009014;}
+.navbut:visited{color:white;}
+.navbut:active{color:white;}
+.navbut:link{color:white;}
+
+.overzicht{margin:0 0 0 5%;}
+
+.volgende {
+border:none;
+border-radius:5px;
+margin-bottom:10px;
+margin-right:10px;
+padding:5px;
+}
+.volgende:hover{cursor:pointer;background-color: #2b5797;}
+
+/*vraag toevoegen css*/
+.inpt {background-color:white; border:0; width:185px;color:black;font-size:14px;border:1px solid black;float:left;margin-top:2px;}
+.knop {width:350px;height:50px;background-color:#2d89ef;border-radius:5px;border:none;margin:15px 250px;;color:white;float:right;}
+.knop:hover {cursor:pointer;background-color: #2b5797;}
+.regel{float:left;}

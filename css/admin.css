@@ -1,0 +1,8 @@
+.kolom-center {max-width:25%;margin:50px auto 0 auto; border: 1px solid blue;height: 250px;padding:10px;}
+h1{color:#337ab7;margin: 0 0 0 20px;}
+input[type=text] {float:right;margin-right: 125px;}
+input[type=password] {float:right;margin-right: 125px;}
+.knop{float:right;margin-right: 125px;margin-top:15px;background-color: #337ab7;border-radius:3px; font-weight:bold;}
+.rij{margin-top:10px;}
+.knVerw {float:right;margin:0;background-color: #337ab7;border-radius:5px; font-weight:bold;padding:2px 5px 2px 5px;}
+	p {margin-top: 20px;}

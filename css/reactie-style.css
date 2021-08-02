@@ -1,0 +1,31 @@
+﻿form{font-size:150%;}
+textarea {
+	font-size:150%;
+	box-sizing: border-box;
+max-width : 800px;
+	width: 100%;margin-left:10%;
+}
+button{width:150px;height:40px;font-size:100%;border-radius:10px;background-color:blue;color:white;font-weight: 700;padding:2px;margin:-2px  2% 0 0;float:right;}
+button:disabled{background-color:#e0e0e0;}
+.btn-primary.active{background-color:#0F75BC;}
+
+.form-kop{width:80%;margin: 0 0 10px 10%;background-color:#0F75BC; color:white;padding:5px;border-radius:5px;font-size:150%;}
+#naam {margin-left:10%;}
+label{margin-left:10%;}
+input[type=checkbox][disabled]{margin-left:3%;}
+
+select {border:thin solid #c9c9c9;border-radius:5px;}
+option[selected] { background-color: #c9c9c9; }
+#code {border:thin solid #c9c9c9;border-radius:5px;width:100px;margin:10px 0 0 0 ;padding:0.5%;}
+.rij1{margin:0 0 25px 25px;border:2px solid gray;padding:10px;text-align: left;float:left;width:90%;}
+.tekst{width:70%;border:2px dotted gray;float:left;}
+
+.glyphicon-ok {color:green;margin-left:40px;}
+.glyphicon-remove {color:red;margin-left:40px;}
+.geen {font-size:50%;}
+.inloggen{float:left; margin-left:10%; 	}
+.inloggeninp {margin-right:20%;float: right;}
+#verstuur {margin-right:25%;margin-bottom:25px;}
+#melding{margin-left:10%;margin-right:25%;font-size:125%;visibility:hidden;}
+#reactie_foto{width:70%;float:left;}
+#foto{width:20%;float:right;margin-right:5%;}

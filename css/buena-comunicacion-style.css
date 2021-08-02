@@ -6,12 +6,12 @@
 
 .page-header img{padding:0;margin:0;}
 .top-20{margin-top:35px;}
-
+.jumbotron h1{font-size:45px;}
 h3 {background-color:#0F75BC;color:white;padding:5px;font-size: medium;}
 
-.jumbotron{padding:10px;margin-top:40px;font-size: small;}
+.jumbotron{padding:10px;margin-top:40px;}
 
-.well  {padding:10px;margin:10px 10px 0 10px;border:1px solid #0f75bc}
+.well, .reactie {padding:10px;margin:10px 10px 0 10px;border:1px solid #0f75bc;clear:both;}
 #content-kop img {
 margin-left:50px;margin-bottom:25px;}
  .carousel-inner > .item > img,
@@ -25,9 +25,12 @@ margin-left:50px;margin-bottom:25px;}
 input.onderwerp
 {
 border:0px;
-background-color:#F0EEE1;
+background-color:#FFFFFF;
 color: #F0EEE1;
+width:2px;
 }
+
+
 textarea {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -42,7 +45,8 @@ max-width : 500px;
 	box-sizing: border-box;
 max-width : 367px;
 	width: 100%;
-	height:auto;}
+	height:auto;
+margin-bottom:15px;}
 .reacties{width:75%;float:right;margin-right:5%;}
 .form-group.required .control-label:after {
    content:"*";
@@ -50,3 +54,17 @@ max-width : 367px;
 }
 .nav-pills > li.active > a{background-color:#0F75BC;}
 .btn-primary.active{background-color:#0F75BC;}
+.form-horizontal {width:50%;color:gray;margin-left:25%}
+.form-kop{width:50%;margin: 0 0 20px 25%;}
+#artikel p{font-size:17px;margin-top:20px;}
+
+#artikel table,td,tr,th{border:1px solid black;padding:5px;margin-top:20px;font-size:15px;}
+caption {display: table-caption;color:black;font-size:15px;}
+#kader {background-color:#F0EEE1;border:1px solid blue;padding:10px;margin:auto;width:90%;}
+#artikel h1 {font-size:25px;}
+#artikel h2{font-size:20px;}
+#kol{width: 150px;}
+
+#corona{background-color:yellow;padding:1%;margin-bottom:20px;margin-right:33%;}
+.bedankt{background-color:#F0EEE1;}
+#melding{float:right;border:2px solid red;padding:1%;margin-top:-30px;margin-right:25%;}

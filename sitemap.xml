@@ -3,136 +3,155 @@
 <url>
     <loc>http://www.buena-comunicacion.nl</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-09-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/index.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-09-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/contact.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 <url>
-    <loc>http://www.buena-comunicacion.nl/over-buena-comunicacion.html</loc>
+    <loc>http://www.buena-comunicacion.nl/over-Buena-Comunicacion.html</loc>
 
-    <lastmod>2018-04-02</lastmod>
+    <lastmod>2020-01-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>   
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/inschrijven.html</loc>
 
     <lastmod>2016-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/privelessen-spaans.html</loc>
 
-    <lastmod>2016-10-22</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 
 <url>
     <loc>http://www.buena-comunicacion.nl/zakelijk-spaans.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2019-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
+</url>
 
 <url>
     <loc>http://www.buena-comunicacion.nl/prijzen.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-01-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://www.buena-comunicacion.nl/rooster.html</loc>
-
-    <lastmod>2016-10-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/docenten-spaans.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-01-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-</url>  
+</url>
 
 <url>
     <loc>http://www.buena-comunicacion.nl/intake-gesprek.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/tips.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-</url>  
+</url>
 <url>
-    <loc>http://www.buena-comunicacion.nl/reacties.html</loc>
+    <loc>http://www.buena-comunicacion.nl/reacties.php</loc>
 
-    <lastmod>2017-12-10</lastmod>
+    <lastmod>2020-02-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-</url>  
+</url>
+<url>
+    <loc>http://www.buena-comunicacion.nl/vertalen.html</loc>
+
+    <lastmod>2020-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+<url>
+    <loc>http://www.buena-comunicacion.nl/offerte-vertaling.html</loc>
+
+    <lastmod>2020-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
 <url>
     <loc>http://www.buena-comunicacion.nl/foto-pagina.html</loc>
 
     <lastmod>2018-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/afspraak.html</loc>
 
-    <lastmod>2016-10-22</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/vraag.html</loc>
 
     <lastmod>2016-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/algemene-voorwaarden.html</loc>
 
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2019-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-</url>  
+</url>
 <url>
     <loc>http://www.buena-comunicacion.nl/klachtenregelement.html</loc>
 
     <lastmod>2018-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-</url>  
+</url>
 
+<url>
+    <loc>http://www.buena-comunicacion.nl/100-procent-geslaagd-examen-KLM.html</loc>
 
+    <lastmod>2020-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>http://www.buena-comunicacion.nl/verschiltuenvosotros.html</loc>
 
-
- 
-
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
 
 </urlset>

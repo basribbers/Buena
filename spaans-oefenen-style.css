@@ -1,0 +1,68 @@
+.btn {margin-right:1%; }
+navbar-btn {margin-left:11%; }
+#loginmeld{width: 500px;}
+#stopId{color:white;}
+#stopId:hover { text-decoration: none;}
+#einde	 {float:left;font-weight:bold;color:black;}
+#einde a {color:white;}
+#einde a:hover {text-decoration: none;}
+#einde_tekst{color:black;}
+h1{color:#C51212;font-size:30px;}
+
+
+h2{margin-top:20px;font-size:25px;}
+h3{margin-top:10px;font-size:20px;}
+header a {font-size:30px;}
+
+label {text-align: left;font-weight: bold;}
+w3-bar {clear:both;}
+
+a {font-size:15px;}
+a:link {
+    text-decoration: none;
+	color: #0036c4;
+}
+a:visited {
+    text-decoration: none;
+	color: #0036c4;
+}
+
+a:hover {
+    text-decoration: underline;
+	color: #0036c4;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.inactief{text-decoration: none;color:gray;
+pointer-events: none;
+  cursor: default;}
+nav a:link {
+    text-decoration: none;
+	color: #8D9D9D;
+}
+nav a:visited {
+    text-decoration: none;
+	color: #8D9D9D;
+}
+nav a:active {
+    text-decoration: none;
+	color: #8D9D9D;
+}
+
+ .active {color:white;}
+#oefenen {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#einde_tekst1{color:black;}
+#einde_tekst2{color:black;}
+#totaal {color:black;float:right;font-weight:bold;}
+#naam{color:red;margin:0;}
+#btOefenen{color:white;}
+#kader1{height:inherit;margin-bottom:50px;}
+#kader2{height:inherit;margin-bottom:50px;}
+#melding{margin:20px 5% 0 5%;background-color:#8BC34A;padding:1px 2% 1px 2%;}
+

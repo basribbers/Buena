@@ -1,6 +1,9 @@
-body{font-size: medium; color:black;}
-
-
+body{ color:black;}
+	
+#content-kop a {font-weight:bold;}	
+#content-kop p{color:black;font-size:17px;font-weight:normal;}
+.active a {font-weight:bold;}
+.jumbotron h1 {font-size: 20px;}
 
 .merk {
 display: inline ;
@@ -8,22 +11,25 @@ visibility: visible ;
 font-weight: bold;
 }
 .merk img {margin-top: 5px;}
-.merk a{font-size:20px;}
-
+.merk a{font-size:20px;padding:0;margin-top:10px;}
 .merk a:link {color:#0F75BC;}
 .merk a:visited {color:#0F75BC;}
 .merk a:hover {color:#0F75BC;}
 .merk a:active {color:#0F75BC;}
-
-
-
 .page-header{
-
 	display: none ;
   visibility: hidden ;
 }
 
 h2{font-size:20px;}
-
 .jumbotron{margin:0;}
+
 .panel-primary {height:auto;margin-top: 10px;}
+.form-horizontal {width:100%;margin:0;}
+.form-kop{width:100%;margin: 0 0 20px 0 ;border:1px solid black;font-size: 18pt;}
+#kader {width:100%;}
+.wel {width:100%;margin-left:0;margin-right:0;}
+.container-fluid{width:100%;margin:0;padding:0;}
+.foto {max-width: 100%;
+  height: auto;}
+.kolom-center{width:100%;}

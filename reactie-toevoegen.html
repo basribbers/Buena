@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="nl"><head><meta charset="utf-8">
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+ <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/buena-comunicacion-style.css" >
+<link rel="stylesheet" href="css/reactie-style.css" >
+<link rel="stylesheet" href="css/stijl640.css" media="screen and (max-width: 640px)" />
+<link rel="icon" href="img/favicon.ico">
+<title>Wat vond u van de cursus Spaans bij Buena Comunicación</title>
+<meta name="description" content=""></head>
+<body>
+<div class="container-fluid">
+<div class="page-header">
+<a href="index.html"><img src="img/buena-comunicacion-logo.png" alt="logo van Buena Comunicación"></a>
+</div>
+<nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/logo_klein.gif" alt="klein logo van Buena Comunicación" style="float:left;"><a class="navbar-brand" href="index.html">Buena Comunicación</a></span><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button></div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+<li><a href="index.html">Start</a></li>
+<li><a href="over-Buena-Comunicacion.html">Over Buena Comunicación</a></li>
+<li><a href="privelessen-spaans.html">Privélessen</a></li>
+<li><a href="zakelijk-spaans.html">Zakelijk Spaans</a></li><li><a href="vertalen.html">Vertalen</a></li>
+<li><a href="prijzen.html">Prijzen</a></li>
+<li><a href="tips.html">Tips en FAQ</a></li>
+<li><a href="docenten-spaans.html">De docenten</a></li>
+<li><a href="intake-gesprek.html">Intake gesprek</a></li>
+<li><a href="reacties.html">Reacties van onze cursisten</a></li>
+
+<li><a href="foto-pagina.html">Foto's</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+<!--a href="inschrijven.html" class="btn btn-primary navbar-btn"><span class="glyphicon glyphicon-pencil"></span>Inschrijven</a>-->
+</div></nav>
+ 
+ <div class="form-kop">Wat vond u van de cursus Spaans bij Buena Comunicación?</div>
+         <form>
+            <div class="form-group required">
+				<label for="naam">Naam</label>
+				<input name="naam" size="50" id="naam"  type="text" class="form-control input-lg" placeholder="Uw voornaam en achternaam">  
+		</div>
+			 <div class="form-group required">
+				<label for="naam">Uw review</label>
+					<textarea name="reactie" cols="100" rows="10" id="reactie"  class="form-control" placeholder="Beschrijf hier wat u van de cursus vond"></textarea> 
+		</div>
+		<label for="naam">Mijn review wordt gepubliceerd op deze site: </label>
+		<select id="toestemming">
+		 <option value="ja">Ja, prima!</option>
+		<option value="nee">Nee, liever niet</option>
+		</select><br>
+		<label for="naam">Beveiligingsgscode</label>
+				<input name="code" size="5" id="code"  type="text"  placeholder="code"/>  
+			 </form>
+	<button type="button" id="verstuur" class="btn btn-success btn-lg">Versturen <i class="glyphicon glyphicon-arrow-right"></i></button>		 
+		  </div>
+		  <div id="melding" class="alert alert-warning fade in" role="alert">Vul eerst de beveiligingscode in</div>
+	
+<script src="jcode/reactie.js"></script>
+</body></html>
