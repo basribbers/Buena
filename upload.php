@@ -11,7 +11,7 @@
 
 <div class="container-fluid">
 <div class="page-header">
-<a href="index.html"><img src="img/buena-comunicacion-logo.png" alt="logo van Buena Comunicación"></a>
+<a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a>
 </div>
 <div class="kolom-center">
 <?php

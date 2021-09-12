@@ -9,8 +9,10 @@ body{ color:black;}
 display: inline ;
 visibility: visible ;
 font-weight: bold;
+width: 80%;
 }
-.merk img {margin-top: 5px;}
+.tg{width: 15%;}
+.merk img {margin-top: 5px;width: 80%;}
 .merk a{font-size:20px;padding:0;margin-top:10px;}
 .merk a:link {color:#0F75BC;}
 .merk a:visited {color:#0F75BC;}

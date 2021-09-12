@@ -9,8 +9,8 @@
 <link rel="icon" href="img/favicon.ico">
 <title>Reacties van onze cursisten</title>
 <meta name="description" content="Snel en goed Spaans leren met deskundige docenten bij Buena Comunicación. Lees wat onze cursisten van de lessen vonden"></head>
-<body><div class="container-fluid"><div class="page-header"><a href="index.html"><img src="img/buena-comunicacion-logo.png" alt="logo van Buena Comunicación"></a></div>
-<nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/logo_klein.gif" style="float:left;"><a class="navbar-brand" href="index.html">Buena Comunicación</a></span><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
+<body><div class="container-fluid"><div class="page-header"><a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a></div>
+<nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/Logo_Buena_klein.PNG" style="float:left;"></span><button type="button" id="tg" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span><span class="icon-bar"></span></button></div>
   <div class="collapse navbar-collapse" id="myNavbar"><ul class="nav navbar-nav">
@@ -25,20 +25,19 @@
 <li class="active"><a href="reacties.php">Reacties van onze cursisten</a></li>
 <li><a href="foto-pagina.html">Foto's</a></li>
 <li><a href="contact.html">Contact</a></li>
-</ul><a href="inschrijven.html" class="btn btn-primary navbar-btn"><span class="glyphicon glyphicon-pencil"></span>Inschrijven</a>
+</ul><a href="inschrijven.html" class="btn navbar-btn"><span class="glyphicon glyphicon-pencil"></span>Inschrijven</a>
+
 </div></nav>
 <?php
 /* require ('../DBfuncties.php');
 $conn=dbConnection();
 list( $naam, $datum, $reactie ) = reactieLezen($conn); */
 ?>
-
-<div class="well" id="main" style="background-color:#F0EEE1;">
+<div class="well wl"  id="main" style="background-color:#F0EEE1;">
 <h2>Reacties van onze cursisten</h2>
 
 <div class="well well-sm" style="background-color: #F0EEE1;overflow: hidden;"><h4 style="float:left";>Gordon Heuckeroth</h4><img id="foto" src="img/Spaanse les Gordon.jpg" alt="Spaans leren op locatie bij Gordon"><p id="reactie_foto">Vanaf het begin van de corona pandemie hebben Patrick en ik Spaanse les gevolgd. Via via kwam ik terecht bij Gemimah Ribbers communicacion een dame die er een geweldige lesmethode op nahoudt. Elke les is een feest en zonder al die saaie lesboeken leren we verdomd goed Spaans te spreken en te schrijven. Vooral door de taal te spreken van de gewone man inclusief scheld en vieze woorden( heerlijk) kunnen we straks vloeiend Spaans spreken iets wat ik altijd al heb gewild. Dus zoek je een lesmethode die anders is en veel leuker contact dan die kleine Spaanse heks( met vriendelijke toestemming) en go for it!!</p>
 </div>
-
 <!--<script>
 var naam = [];
 var datum = [];

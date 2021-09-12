@@ -25,7 +25,7 @@ mail.addEventListener('click', function(){
  </script>
 <div class="container-fluid">
 <div class="page-header">
-<a href="index.html"><img src="img/buena-comunicacion-logo.png" alt="logo van Buena Comunicación"></a>
+<a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a>
 </div>
  <h1 class="form-kop"  style="background-color:#0F75BC; color:white;" >Stap 2: Document uploaden</h1>
 <form  class="kolom-center" action="upload.php" method="post" enctype="multipart/form-data">

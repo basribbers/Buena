@@ -7,11 +7,15 @@
 .page-header img{padding:0;margin:0;}
 .top-20{margin-top:35px;}
 .jumbotron h1{font-size:45px;}
-h3 {background-color:#0F75BC;color:white;padding:5px;font-size: medium;}
+h3 {background-color:#bb171e;color:white;padding:5px;font-size: medium;}
 
 .jumbotron{padding:10px;margin-top:40px;}
-
-.well, .reactie {padding:10px;margin:10px 10px 0 10px;border:1px solid #0f75bc;clear:both;}
+#myNavbar{background-color: #bb171e;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{background-color:#620004 ;}
+.navbar-btn{background-color:#620004 ;}
+#myNavbar a {color:white;}
+.active a{background-color: #620004;}
+.well, .reactie {padding:10px;margin:10px 10px 0 10px;border:1px solid #bb171e;clear:both;}
 #content-kop img {
 margin-left:50px;margin-bottom:25px;}
  .carousel-inner > .item > img,
@@ -65,7 +69,15 @@ caption {display: table-caption;color:black;font-size:15px;}
 #artikel h2{font-size:20px;}
 #kol{width: 150px;}
 
-#corona{background-color:yellow;padding:1%;margin-bottom:20px;margin-right:33%;}
+
 .bedankt{background-color:#F0EEE1;}
 #melding{float:right;border:2px solid red;padding:1%;margin-top:-30px;margin-right:25%;}
 #factuuradres {padding: 10px;margin-bottom: 20px;}
+.btnInschrijf {background-color:  #f1c30f ;box-shadow: #ffeb12 0px 0px 40px 0px;border:none;font-weight: bold;color: white;padding:10px;border-radius:10px;}
+.btnInschrijf:hover  {background-color: #f7c708;}
+ .btnInschrijf  {text-decoration: none;}
+ .btnInschrijf:hover {text-decoration: none;color:white;}
+ .btnInschrijf:active {text-decoration: none;color:white;}
+ .btnInschrijf:visited {text-decoration: none;color:white;}
+ .wl{background-color: white;}
+ #tg{margin-top:30px;}
