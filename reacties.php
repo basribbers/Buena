@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html><html lang="nl"><head><meta charset="utf-8">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/buena-comunicacion-style.css" >
 <link rel="stylesheet" href="css/reactie-style.css" >
@@ -10,10 +10,10 @@
 <title>Reacties van onze cursisten</title>
 <meta name="description" content="Snel en goed Spaans leren met deskundige docenten bij Buena Comunicación. Lees wat onze cursisten van de lessen vonden"></head>
 <body><div class="container-fluid"><div class="page-header"><a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a></div>
-<nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/Logo_Buena_klein.PNG" style="float:left;"></span><button type="button" id="tg" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
+<nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/Logo_Buena_klein.PNG"  alt="logo" style="float:left;" ></span><button type="button" id="tg" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span><span class="icon-bar"></span></button></div>
-  <div class="collapse navbar-collapse" id="myNavbar"><ul class="nav navbar-nav">
+<div class="collapse navbar-collapse" id="myNavbar"><ul class="nav navbar-nav">
 <li ><a href="index.html">Start</a></li>
 <li><a href="over-Buena-Comunicacion.html">Over Buena Comunicación</a></li>
 <li><a href="privelessen-spaans.html">Privélessen</a></li>
@@ -26,17 +26,16 @@
 <li><a href="foto-pagina.html">Foto's</a></li>
 <li><a href="contact.html">Contact</a></li>
 </ul><a href="inschrijven.html" class="btn navbar-btn"><span class="glyphicon glyphicon-pencil"></span>Inschrijven</a>
-
 </div></nav>
-<?php
+ <!--<?php
 /* require ('../DBfuncties.php');
 $conn=dbConnection();
 list( $naam, $datum, $reactie ) = reactieLezen($conn); */
-?>
+?>-->
 <div class="well wl"  id="main" style="background-color:#F0EEE1;">
 <h2>Reacties van onze cursisten</h2>
 
-<div class="well well-sm" style="background-color: #F0EEE1;overflow: hidden;"><h4 style="float:left";>Gordon Heuckeroth</h4><img id="foto" src="img/Spaanse les Gordon.jpg" alt="Spaans leren op locatie bij Gordon"><p id="reactie_foto">Vanaf het begin van de corona pandemie hebben Patrick en ik Spaanse les gevolgd. Via via kwam ik terecht bij Gemimah Ribbers communicacion een dame die er een geweldige lesmethode op nahoudt. Elke les is een feest en zonder al die saaie lesboeken leren we verdomd goed Spaans te spreken en te schrijven. Vooral door de taal te spreken van de gewone man inclusief scheld en vieze woorden( heerlijk) kunnen we straks vloeiend Spaans spreken iets wat ik altijd al heb gewild. Dus zoek je een lesmethode die anders is en veel leuker contact dan die kleine Spaanse heks( met vriendelijke toestemming) en go for it!!</p>
+<div class="well well-sm" style="background-color: #F0EEE1;overflow: hidden;"><h4 style="float:left;">Gordon Heuckeroth</h4><img id="foto" src="img/Spaanse_les_Gordon.jpg" alt="Spaans leren op locatie bij Gordon"><p id="reactie_foto">Vanaf het begin van de corona pandemie hebben Patrick en ik Spaanse les gevolgd. Via via kwam ik terecht bij Gemimah Ribbers communicacion een dame die er een geweldige lesmethode op nahoudt. Elke les is een feest en zonder al die saaie lesboeken leren we verdomd goed Spaans te spreken en te schrijven. Vooral door de taal te spreken van de gewone man inclusief scheld en vieze woorden( heerlijk) kunnen we straks vloeiend Spaans spreken iets wat ik altijd al heb gewild. Dus zoek je een lesmethode die anders is en veel leuker contact dan die kleine Spaanse heks( met vriendelijke toestemming) en go for it!!</p>
 </div>
 <!--<script>
 var naam = [];
@@ -90,7 +89,7 @@ Kortom: wil je Spaans leren op welk niveau of wat voor tempo dan ook, ga les nem
 <div class="well well-sm" style="background-color: #F0EEE1;"><h4>Silvia Kuipers</h4>Gemimah is een topper. Met een klein bedrijfsklasje les gehad op een leuke informele maar zeer informatieve manier. Er werd veel gelachen en geleerd! Een goede combinatie.</div>
 <div class="well well-sm" style="background-color: #F0EEE1;"><h4>Andre Schubert</h4>Er bestaat denk ik geen betere, gekke, gedrevenere, enthousiaste en lievere lerares Spaans!! EN uiterst professioneel!.</div>
 <div class="well well-sm" style="background-color: #F0EEE1;"><h4>Remo Degano</h4>Wil je goed en gestructureerd Spaans leren met Latijns-Amerikaanse passie, humor en ongekende energie? Meld je dan aan bij Gemimah. Met haar unieke didactische vermogen en eigen leermethode spreek je binnen een mum van tijd Spaans.</div>
- </div>
+ </div></div>
 <footer class="page-footer font-small blue pt-4 mt-4 top-20" style="background-color:#F0EEE1;">
 <div class="container-fluid text-center text-md-left">
 <div class="row top-20">

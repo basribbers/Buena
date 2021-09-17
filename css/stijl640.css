@@ -18,13 +18,19 @@ width: 80%;
 .merk a:visited {color:#0F75BC;}
 .merk a:hover {color:#0F75BC;}
 .merk a:active {color:#0F75BC;}
+
 .page-header{
 	display: none ;
   visibility: hidden ;
 }
 
 h2{font-size:20px;}
-.jumbotron{margin:0;}
+.jumbotron{margin:0;color:black;}
+.jumbotron a{text-decoration: none;font-weight: bold;}
+.jumbotron a:link{color:#05426e;text-decoration: none;}
+.jumbotron a:hover{color:#05426e;text-decoration: none;}
+.jumbotron a:visited{color:#05426e;text-decoration: none;}
+.jumbotron a:active{color:#05426e;text-decoration: none;}
 
 .panel-primary {height:auto;margin-top: 10px;}
 .form-horizontal {width:100%;margin:0;}

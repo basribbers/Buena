@@ -5,7 +5,7 @@ textarea {
 max-width : 800px;
 	width: 100%;margin-left:10%;
 }
-button{width:150px;height:40px;font-size:100%;border-radius:10px;background-color:blue;color:white;font-weight: 700;padding:2px;margin:-2px  2% 0 0;float:right;}
+/* button{width:150px;height:40px;font-size:100%;border-radius:10px;background-color:blue;color:white;font-weight: 700;padding:2px;margin:-2px  2% 0 0;float:right;} */
 button:disabled{background-color:#e0e0e0;}
 .btn-primary.active{background-color:#0F75BC;}
 
