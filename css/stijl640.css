@@ -1,9 +1,7 @@
-body{ color:black;}
-	
 #content-kop a {font-weight:bold;}	
 #content-kop p{color:black;font-size:17px;font-weight:normal;}
 .active a {font-weight:bold;}
-.jumbotron h1 {font-size: 20px;}
+
 
 .merk {
 display: inline ;
@@ -24,7 +22,9 @@ width: 80%;
   visibility: hidden ;
 }
 
+h1{font-size:25px;}
 h2{font-size:20px;}
+
 .jumbotron{margin:0;color:black;}
 .jumbotron a{text-decoration: none;font-weight: bold;}
 .jumbotron a:link{color:#05426e;text-decoration: none;}
@@ -41,3 +41,4 @@ h2{font-size:20px;}
 .foto {max-width: 100%;
   height: auto;}
 .kolom-center{width:100%;}
+.btnInschrijf {box-shadow: #ffeb12 0px 0px 15px 0px;}
