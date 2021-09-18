@@ -3,23 +3,21 @@
   display: none ;
   visibility: hidden ;
 }
-
 .page-header img{padding:0;margin:0;}
 .top-20{margin-top:35px;}
 .hoofdpagina h1{font-size:45px;}
 h3 {background-color:#bb171e;color:white;padding:5px;font-size: medium;}
-
 .hoofdpagina{padding:10px;margin-top:40px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #333;
-}
+	color: #333;}
 #myNavbar{background-color: #bb171e;}
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{background-color:#620004 ;}
 .navbar-btn{background-color:#620004 ;}
 #myNavbar a {color:white;}
 .active a{background-color: #620004;}
+.nav li a {padding: 10px 7px;}
 .well, .reactie {padding:10px;margin:10px 10px 0 10px;border:1px solid #bb171e;clear:both;}
 #content-kop img {
 margin-left:50px;margin-bottom:25px;}
@@ -28,18 +26,13 @@ margin-left:50px;margin-bottom:25px;}
       width: 50%;
       margin: auto;
   }
-
 .panel-primary {height:170px;}
-
 input.onderwerp
 {
 border:0px;
 background-color:#FFFFFF;
 color: #F0EEE1;
-width:2px;
-}
-
-
+width:2px;}
 textarea {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -59,8 +52,7 @@ margin-bottom:15px;}
 .reacties{width:75%;float:right;margin-right:5%;}
 .form-group.required .control-label:after {
    content:"*";
-   color:red;
-}
+   color:red;}
 .nav-pills > li.active > a{background-color:#0F75BC;}
 .btn-primary.active{background-color:#0F75BC;}
 .form-horizontal {width:50%;color:gray;margin-left:25%}
@@ -73,8 +65,6 @@ caption {display: table-caption;color:black;font-size:15px;}
 #artikel h1 {font-size:25px;}
 #artikel h2{font-size:20px;}
 #kol{width: 150px;}
-
-
 .bedankt{background-color:#F0EEE1;}
 #melding{float:right;border:2px solid red;padding:1%;margin-top:-30px;margin-right:25%;}
 #factuuradres {padding: 10px;margin-bottom: 20px;}
@@ -86,3 +76,5 @@ caption {display: table-caption;color:black;font-size:15px;}
  .btnInschrijf:visited {text-decoration: none;color:white;}
  .wl{background-color: white;}
  #tg{margin-top:30px;}
+ #logo{margin-left:5%;}
+ #submit{background-color: #f1c30f;border: none;font-weight: bold;}
