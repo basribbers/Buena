@@ -9,7 +9,7 @@
 <link rel="icon" href="img/favicon.ico">
 <title>Reacties van onze cursisten</title>
 <meta name="description" content="Snel en goed Spaans leren met deskundige docenten bij Buena Comunicación. Lees wat onze cursisten van de lessen vonden"></head>
-<body><div class="container-fluid"><div class="page-header"><a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a></div>
+<body><div class="page-header"><a href="index.html"><img src="img/Logo_Buena.PNG" alt="logo van Buena Comunicación"></a></div>
 <nav class="navbar navbar-default"><div class="navbar-header"><span class="merk"><img src="img/Logo_Buena_klein.PNG"  alt="logo" style="float:left;" ></span><button type="button" id="tg" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar ">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span><span class="icon-bar"></span></button></div>
@@ -26,7 +26,7 @@
 <li><a href="foto-pagina.html">Foto's</a></li>
 <li><a href="contact.html">Contact</a></li>
 </ul><a href="inschrijven.html" class="btn navbar-btn"><span class="glyphicon glyphicon-pencil"></span>Inschrijven</a>
-</div></nav>
+</div></nav><div class="container-fluid">
  <!--<?php
 /* require ('../DBfuncties.php');
 $conn=dbConnection();

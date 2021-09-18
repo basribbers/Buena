@@ -25,12 +25,12 @@ width: 80%;
 h1{font-size:25px;}
 h2{font-size:20px;}
 
-.jumbotron{margin:0;color:black;}
-.jumbotron a{text-decoration: none;font-weight: bold;}
-.jumbotron a:link{color:#05426e;text-decoration: none;}
-.jumbotron a:hover{color:#05426e;text-decoration: none;}
-.jumbotron a:visited{color:#05426e;text-decoration: none;}
-.jumbotron a:active{color:#05426e;text-decoration: none;}
+.hoofdpagina{margin:0;color:black;}
+.hoofdpagina a{text-decoration: none;font-weight: bold;}
+.hoofdpagina a:link{color:#05426e;text-decoration: none;}
+.hoofdpagina a:hover{color:#05426e;text-decoration: none;}
+.hoofdpagina a:visited{color:#05426e;text-decoration: none;}
+.hoofdpagina a:active{color:#05426e;text-decoration: none;}
 
 .panel-primary {height:auto;margin-top: 10px;}
 .form-horizontal {width:100%;margin:0;}
