@@ -15,6 +15,7 @@ h3 {background-color:#bb171e;color:white;padding:5px;font-size: medium;}
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{background-color:#620004 ;}
 .navbar-btn{background-color:#620004 ;}
 #myNavbar a {color:white;}
+#myNavbar > a {margin-left: 5px;}
 .active a{background-color: #620004;}
 .nav li a {padding: 10px 7px;}
 .well, .reactie {padding:10px;margin:10px 10px 0 10px;border:1px solid #bb171e;clear:both;}
