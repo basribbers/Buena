@@ -35,7 +35,7 @@ list( $naam, $datum, $reactie ) = reactieLezen($conn); */
 <div class="well wl"  id="main" style="background-color:#F0EEE1;">
 <h2>Reacties van onze cursisten</h2>
 
-<div class="well well-sm" style="background-color: #F0EEE1;overflow: hidden;"><h4 style="float:left;">Gordon Heuckeroth</h4><img id="foto" src="img/Spaanse_les_Gordon.jpg" alt="Spaans leren op locatie bij Gordon"><p id="reactie_foto">Vanaf het begin van de corona pandemie hebben Patrick en ik Spaanse les gevolgd. Via via kwam ik terecht bij Gemimah Ribbers communicacion een dame die er een geweldige lesmethode op nahoudt. Elke les is een feest en zonder al die saaie lesboeken leren we verdomd goed Spaans te spreken en te schrijven. Vooral door de taal te spreken van de gewone man inclusief scheld en vieze woorden( heerlijk) kunnen we straks vloeiend Spaans spreken iets wat ik altijd al heb gewild. Dus zoek je een lesmethode die anders is en veel leuker contact dan die kleine Spaanse heks( met vriendelijke toestemming) en go for it!!</p>
+<div class="well well-sm" style="background-color: #F0EEE1;overflow: hidden;"><h4 style="float:left;">Gordon Heuckeroth</h4><img id="foto" src="img/Spaanse les Gordon.jpg" alt="Spaans leren op locatie bij Gordon"><p id="reactie_foto">Vanaf het begin van de corona pandemie hebben Patrick en ik Spaanse les gevolgd. Via via kwam ik terecht bij Gemimah Ribbers communicacion een dame die er een geweldige lesmethode op nahoudt. Elke les is een feest en zonder al die saaie lesboeken leren we verdomd goed Spaans te spreken en te schrijven. Vooral door de taal te spreken van de gewone man inclusief scheld en vieze woorden( heerlijk) kunnen we straks vloeiend Spaans spreken iets wat ik altijd al heb gewild. Dus zoek je een lesmethode die anders is en veel leuker contact dan die kleine Spaanse heks( met vriendelijke toestemming) en go for it!!</p>
 </div>
 <!--<script>
 var naam = [];
@@ -108,7 +108,7 @@ Kortom: wil je Spaans leren op welk niveau of wat voor tempo dan ook, ga les nem
 <div class="col-md-4"><ul class="list-unstyled"><li><a href="https://www.facebook.com/buena.comunicacion.5">Facebook</a></li>
 <li>
 <a href="https://www.linkedin.com/in/gemimahspaans/">LinkedIn</a>
-</li></ul></div></div></div></footer>
+</li><li><a href="https://www.instagram.com/gemimahribbers_">Instagram</a></li></ul></div></div></div></footer>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
