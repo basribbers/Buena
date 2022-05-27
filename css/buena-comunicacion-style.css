@@ -65,7 +65,7 @@ caption {display: table-caption;color:black;font-size:15px;}
 #artikel h2{font-size:20px;}
 #kol{width: 150px;}
 .bedankt{background-color:#F0EEE1;}
-#melding{float:right;border:2px solid red;padding:1%;margin-top:-30px;margin-right:25%;}
+#melding{border:2px solid red;padding:1%;margin-top:25px;margin-right:0;font-weight:bold;visibility:hidden;}
 #factuuradres {padding: 10px;margin-bottom: 20px;}
 .btnInschrijf {background-color:  #f1c30f ;box-shadow: #ffeb12 0px 0px 40px 0px;border:none;font-weight: bold;color: white;padding:10px;border-radius:10px;}
 .btnInschrijf:hover  {background-color: #f7c708;}
